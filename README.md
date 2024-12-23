@@ -1,0 +1,1 @@
+For most of 2024, my coding activity has mostly revolved around leetcode. By default this wouldn't be shared on github, so I shared some of the highlights here. I have over 200 problems solves, more than 90% of other leetcode users, including in some of the harder question types.
